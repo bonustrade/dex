@@ -54,7 +54,7 @@ BonusTrade DEX is a decentralized finance (DeFi) trading bot for Uniswap and Pan
 
 ## Installation
 
-- Download the bot from our GitHub [release page](https://github.com/GameSoftInteractive/bonustrade-dex/releases/).
+- Download the bot from our GitHub [release page](https://github.com/bonustrade/dex/releases/).
 - Select the bot based on your operating system.
 - Just install the bot and you’re done!
 
